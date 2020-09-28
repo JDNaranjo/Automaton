@@ -1,0 +1,10 @@
+C:\Users\Juan Naranjo\source\repos\Automaton\Automaton\obj\Debug\Automaton.csprojAssemblyReference.cache
+C:\Users\Juan Naranjo\source\repos\Automaton\Automaton\obj\Debug\Automaton.Properties.Resources.resources
+C:\Users\Juan Naranjo\source\repos\Automaton\Automaton\obj\Debug\Automaton.csproj.GenerateResource.cache
+C:\Users\Juan Naranjo\source\repos\Automaton\Automaton\obj\Debug\Automaton.csproj.CoreCompileInputs.cache
+C:\Users\Juan Naranjo\source\repos\Automaton\Automaton\bin\Debug\Automaton.exe.config
+C:\Users\Juan Naranjo\source\repos\Automaton\Automaton\bin\Debug\Automaton.exe
+C:\Users\Juan Naranjo\source\repos\Automaton\Automaton\bin\Debug\Automaton.pdb
+C:\Users\Juan Naranjo\source\repos\Automaton\Automaton\obj\Debug\Automaton.Form1.resources
+C:\Users\Juan Naranjo\source\repos\Automaton\Automaton\obj\Debug\Automaton.exe
+C:\Users\Juan Naranjo\source\repos\Automaton\Automaton\obj\Debug\Automaton.pdb
